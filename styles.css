@@ -1,0 +1,274 @@
+
+body{
+    background-color: rgb(23, 23, 23);
+}
+
+#one{
+    margin-left: 100px;
+}
+
+.links{
+    display: flex;
+}
+
+#two{
+    color: white;
+}
+
+#three{
+    color: aliceblue;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.linksi{
+    color: white;
+}
+
+#five{
+    color: white;
+    text-decoration: none;
+    padding: 30px;
+}
+
+#four{
+    border: none;
+    background-color: rgb(207, 100, 6);
+    color: white;
+    margin-right: 20px;
+    height: 29px;
+}
+
+.container-text{
+    margin-left: 100px;
+    color: white;
+}
+
+#ten{
+    color: orangered;
+}
+
+.container-every{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#twenty{
+    font-size: 2.7rem;
+}
+
+#thirty{
+    font-size: 2.7rem;
+    margin-left: 115px;
+}
+
+#fourteen{
+    color: white;
+    border: none;
+    background-color: rgb(207, 100, 6);
+    height: 29px;
+    width: 99px;
+    border-radius: 2px;
+}
+
+#forty{
+    width: 220px;
+    height: 60px;
+    position: absolute;
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    padding: 10px 20px;
+    background-color: #007BFF; 
+    color: white;
+    text-decoration: none;
+    background-color: rgba(255, 165, 0, 0.7);
+    margin-left: 345px;
+    margin-top: 30px;
+    border: none;
+}
+
+#fifty{
+    margin-left: 130px;
+}
+
+.container_everything{
+    margin-left: 100px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+#fort{
+    width: 290px;
+    height: 60px;
+    position: absolute;
+    top: 50%; 
+    right: 42.5%;
+    transform: translate(-50%, -50%); 
+    padding: 10px 20px;
+    background-color: #007BFF; 
+    color: white;
+    text-decoration: none;
+    background-color: rgba(255, 165, 0, 0.7);
+    margin-top: 720px;
+    margin-right: 00px;
+    border: none;
+}
+
+#seventeen{
+    color: white;
+    text-align: center;
+}
+
+#sevent{
+    color: white;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.container-contain{
+  display: flex;
+}
+
+.co{
+    border-radius: 20px;
+    width: 340px;
+    height: 290px;
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+}
+
+.buttons{
+    display: flex;
+    margin-left: 350px;
+    gap: 50px;
+    
+}
+
+.teen{
+    background-color: white;
+    
+}
+
+.containss{
+    display: flex;
+    gap: 50px;
+}
+
+.con{
+    border-radius: 20px;
+    width: 300px;
+    height: 350px;
+    background-color: pink;
+    margin: 10px;
+    padding: 20px;
+}
+
+#fouur{
+    color: orangered;
+    margin-right: 340px;
+}
+
+.p{
+    display: flex;
+}
+
+#for{
+    margin-right: 200px;
+    color: white;
+    margin-bottom: 200px;
+}
+
+.vex{
+    width: 550px;
+    height: 210px;
+    margin-left: 340px;
+    background-color: white;
+    border-radius: 2px;
+    display: flex;
+}
+
+.buttucks{
+      margin-left: 303px;
+      display: flex;
+      margin-top: 20px;
+}
+
+#but{
+    background-color: white;
+    width: 90px;
+    height: 20px;
+    margin-left: 30px;
+    border: none;
+    border-radius: 20px;
+}
+
+#butt{
+    background-color: rgb(255, 196, 0);
+    width: 90px;
+    height: 20px;
+    border: none;
+    border-radius: 20px;
+    margin-left: 30px;
+}
+
+input{
+    width: 330px;
+    height: 35px;
+    border-radius: 2px;
+    margin-left: 330px;
+    border: none;
+}
+
+#tre{
+    color: white;
+    background-color: orange;
+    height: 35px;
+    border-radius: 2px;
+    border: none;
+}
+
+#onne{
+    margin-left: 460px;
+}
+
+.lin{
+    display: flex;
+    margin-top: 100px;
+}
+
+.linksii{
+    color: white;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+
+#ffi{
+    margin-top: 50px;
+    margin-left: 380px;
+}
+
+.ttt{
+    width: 1250px;
+    height: 50px;
+    background-color: black;
+    margin-top: 50px;
+}
+
+#tttt{
+    color: orangered;
+}
+
+#ter{
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
